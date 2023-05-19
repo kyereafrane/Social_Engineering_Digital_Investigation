@@ -3,7 +3,7 @@ As a member of the Cyber Defense team, my task was to identify malicious content
 
 #### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_pu8TfLfGd9fZo75DR_1682196930390_completion_certificate.pdf)
 
-<h2>Skills Developed</h2>
+<h2>Practical Skills Developed</h2>
 
 <b>Digital Investigations | Open Source Investigation | Social Engineering Concepts | Security Reporting | Network Traffic Analysis | File Types Identification </b> 
 
